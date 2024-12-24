@@ -39,26 +39,6 @@ Este es el primer proyecto del curso **"JavaScript Moderno: Guía Definitiva Con
 4. Usa las opciones para eliminar productos individuales o vaciar el carrito completamente.
 5. Los datos permanecerán guardados incluso si recargas la página, gracias a LocalStorage.
 
-## Estructura del proyecto
-
-```
-proyecto-carrito/
-├── index.html
-├── css/
-│   └── estilos.css
-├── js/
-│   └── app.js
-└── README.md
-```
-
-- `index.html`: Archivo principal con la estructura HTML del proyecto.
-- `css/estilos.css`: Archivo de estilos para mejorar el diseño visual.
-- `js/app.js`: Archivo JavaScript con toda la lógica del carrito.
-
-## Capturas de pantalla
-
-_Agrega aquí imágenes del proyecto para ilustrar su funcionalidad._
-
 ## Créditos
 
 Este proyecto fue desarrollado como parte del curso [JavaScript Moderno: Guía Definitiva Construye +20 Proyectos](https://www.udemy.com/course/javascript-moderno-guia-definitiva-construye-10-proyectos/) por **Juan Pablo De la Torre Valdez**.
